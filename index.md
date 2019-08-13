@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## Preprint
+[arxiv.org/abs/1906.02604](https://arxiv.org/abs/1906.02604)
 
-You can use the [editor on GitHub](https://github.com/m0ro/moro.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Slides from Complex Nanophotonics Camp 2019
+[google.slides](https://docs.google.com/presentation/d/1-3TkTc_yVXCV2Uh9tPzW1ySK4HXdfFElSaH1RAZF8ns/edit?usp=sharing)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/m0ro/moro.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## References
+1 [Livet et al. 2007, Nature]
+2 [https://mcgovern.mit.edu/2019/02/28/ask-the-brain-how-do-neurons-communicate/]
+3 [http://portal.brain-map.org/]
+4 [Bovetti & Moretti et al 2017, Sci Rep.]
+5 [Nöbauer et al. 2017, Nat. Meth.]
+6 [Antonini et al 2018] bioRxiv 10.1101/504472]
+7 [Zhou et al. 2018, eLife]
+8 [Pegard et al. 2016, Optica]
+9 [Goodman, Speckle Statistics in Optics]
+10 [Mosk et al. 2012, Nat. Phot.]
+11 [Pnevmatikakis et al., Neuron 2016]
+12 [Pegard et al., Optica 2016]
+13 [Diego-Andilla and Hamprecht, NIPS 2014]
+14 [Maruyama et al., Neural Netw. 2014]
+15 [Mukamel et al., Neuron 2009]
