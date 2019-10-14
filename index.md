@@ -1,9 +1,6 @@
 ## Preprint
 [arxiv.org/abs/1906.02604](https://arxiv.org/abs/1906.02604)
 
-## Slides from Complex Nanophotonics Camp 2019
-[google.slides](https://docs.google.com/presentation/d/1-3TkTc_yVXCV2Uh9tPzW1ySK4HXdfFElSaH1RAZF8ns/edit?usp=sharing)
-
 ## References
 1. [Livet et al., Nature 2007](https://www.nature.com/articles/nature06293)
 2. [Ask the Brain: How do neurons communicate (so quickly)?](https://mcgovern.mit.edu/2019/02/28/ask-the-brain-how-do-neurons-communicate/)
@@ -17,7 +14,13 @@
 10. Goodman, Speckle Statistics in Optics, Roberts and Company Publishers, 2007
 11. [Mosk et al., Nat. Phot. 2012](https://www.nature.com/articles/nphoton.2012.88)
 12. [Pnevmatikakis et al., Neuron 2016](https://www.cell.com/neuron/abstract/S0896-6273(15)01084-3)
-13. [Pegard et al., Optica 2016](https://www.osapublishing.org/optica/abstract.cfm?uri=optica-3-5-517)
+13. [Prevedel et al., Nat. Meth. 2016](https://www.nature.com/articles/nmeth.4040)
 14. [Diego-Andilla and Hamprecht, NIPS 2014](https://papers.nips.cc/paper/5342-sparse-space-time-deconvolution-for-calcium-image-analysis)
 15. [Maruyama et al., Neural Netw. 2014](https://www.sciencedirect.com/science/article/pii/S0893608014000707)
 16. [Mukamel et al., Neuron 2009](https://www.cell.com/neuron/fulltext/S0896-6273(09)00619-9)
+17. [Turtaev et al., Light Sci. App. 2018](https://www.nature.com/articles/s41377-018-0094-x)
+18. [Drobizhev et al., Nat. Meth. 2011](https://www.nature.com/articles/nmeth.1596)
+19. [Weissleder, Nat. Biotech. 2001](https://www.nature.com/articles/nbt0401_316)
+20. [Iyer et al., J. Neurophy. 2006](https://www.physiology.org/doi/full/10.1152/jn.00865.2005)
+21. [Sofroniew et al., eLife 2016](https://elifesciences.org/articles/14472)
+22. [Horton et al., Nat. Meth. 2013](https://www.nature.com/articles/nphoton.2012.336)
