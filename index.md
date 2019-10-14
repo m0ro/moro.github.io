@@ -24,3 +24,5 @@
 20. [Iyer et al., J. Neurophy. 2006](https://www.physiology.org/doi/full/10.1152/jn.00865.2005)
 21. [Sofroniew et al., eLife 2016](https://elifesciences.org/articles/14472)
 22. [Horton et al., Nat. Meth. 2013](https://www.nature.com/articles/nphoton.2012.336)
+23. [Vellekoop and Mosk, Opt. Lett. 2007](https://www.osapublishing.org/ol/abstract.cfm?uri=ol-32-16-2309)
+24. [Schott et al., Opt. Expr. 2015](https://www.osapublishing.org/oe/abstract.cfm?uri=oe-23-10-13505)
